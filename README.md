@@ -6,7 +6,7 @@
 
 Welcome to my page! ✨
 
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=username.repoName)
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=hannahnmcdonald)
 
 ![Overall Stats](https://github-readme-stats.vercel.app/api?username=hannahnmcdonald&count_private=false&show_icons=true&theme=vue-dark)
 
