@@ -10,6 +10,6 @@ Welcome to my page! ✨
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hannahnmcdonald&layout=compact&theme=vue-dark)
 
-[![Book Club Collective](https://github-readme-stats.vercel.app/api/pin/?username=hannahnmcdonald&repo=Book-Club-Collective)](https://github.com/hannahnmcdonald/Book-Club-Collective)
+[![Book Club Collective](https://github-readme-stats.vercel.app/api/pin/?username=hannahnmcdonald&repo=Book-Club-Collective&theme=vue-dark)](https://github.com/hannahnmcdonald/Book-Club-Collective)
 
 
