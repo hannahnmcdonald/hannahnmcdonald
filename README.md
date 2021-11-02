@@ -10,12 +10,12 @@ Welcome to my page! ✨
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hannahnmcdonald&layout=compact&theme=vue-dark)
 
-[![Book Club Collective](https://github-readme-stats.vercel.app/api/pin/?username=hannahnmcdonald&repo=Book-Club-Collective&theme=vue-dark)](https://github.com/hannahnmcdonald/Book-Club-Collective)
+<!-- [![Book Club Collective](https://github-readme-stats.vercel.app/api/pin/?username=hannahnmcdonald&repo=Book-Club-Collective&theme=vue-dark)](https://github.com/hannahnmcdonald/Book-Club-Collective)
 
 [![TheExpanseTriviaQuiz](https://github-readme-stats.vercel.app/api/pin/?username=hannahnmcdonald&repo=TheExpanseTriviaQuiz&theme=vue-dark)](https://github.com/hannahnmcdonald/TheExpanseTriviaQuiz)
 
 [![WeatherDashboard](https://github-readme-stats.vercel.app/api/pin/?username=hannahnmcdonald&repo=WeatherDashboard&theme=vue-dark)](https://github.com/hannahnmcdonald/WeatherDashboard)
 
-[![DayPlanner](https://github-readme-stats.vercel.app/api/pin/?username=hannahnmcdonald&repo=DayPlanner&theme=vue-dark)](https://github.com/hannahnmcdonald/DayPlanner)
+[![DayPlanner](https://github-readme-stats.vercel.app/api/pin/?username=hannahnmcdonald&repo=DayPlanner&theme=vue-dark)](https://github.com/hannahnmcdonald/DayPlanner) -->
 
 
