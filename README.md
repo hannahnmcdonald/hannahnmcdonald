@@ -12,6 +12,8 @@ Welcome to my page! ✨
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hannahnmcdonald&layout=compact&theme=vue-dark)
   
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user={hannahnmcdonald}&layout=compact&theme=vue-dark)
+  
 </p>
 
 <!-- [![Book Club Collective](https://github-readme-stats.vercel.app/api/pin/?username=hannahnmcdonald&repo=Book-Club-Collective&theme=vue-dark)](https://github.com/hannahnmcdonald/Book-Club-Collective)
