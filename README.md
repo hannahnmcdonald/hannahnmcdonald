@@ -8,11 +8,11 @@ Welcome to my page! ✨
 
 <p align="center">
 
-![Overall Stats](https://github-readme-stats.vercel.app/api?username=hannahnmcdonald&count_private=false&show_icons=true&theme=gotham)
+![Overall Stats](https://github-readme-stats.vercel.app/api?username=hannahnmcdonald&count_private=false&show_icons=true&theme=calm)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hannahnmcdonald&layout=compact&theme=gotham)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hannahnmcdonald&layout=compact&theme=calm)
   
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=hannahnmcdonald&layout=compact&theme=gotham)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=hannahnmcdonald&layout=compact&theme=calm)
   
 </p>
 
