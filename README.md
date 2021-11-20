@@ -1,8 +1,10 @@
-## 👋 Hi, I’m @hannahnmcdonald
+## 👋 Hi, I’m Hannah
 
 🌱 I’m currently learning the fundamentals of full stack web development Georgia Tech's Full Stack Bootcamp
 
 📫 You can reach me via email at hannahcodes@protonmail.com
+
+
 
 Welcome to my page! ✨
 
