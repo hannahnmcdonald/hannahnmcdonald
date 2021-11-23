@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Hannah.
 
-🌱 I’m currently learning the fundamentals of web development at Georgia Tech's Full Stack Bootcamp
+🌱 I’m currently learning the fundamentals of web development at Georgia Tech's Full Stack Coding Bootcamp
 
 📫 You can reach me via email at hannahcodes@protonmail.com
 
