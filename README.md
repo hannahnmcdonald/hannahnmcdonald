@@ -17,8 +17,8 @@ Welcome to my page! ✨
   
 </p>
 
-[![Book Club Collective](https://github-readme-stats.vercel.app/api/pin/?username=hannahnmcdonald&repo=Book-Club-Collective&theme=nightowl)](https://github.com/hannahnmcdonald/Book-Club-Collective) 
-[![TheExpanseTriviaQuiz](https://github-readme-stats.vercel.app/api/pin/?username=hannahnmcdonald&repo=TheExpanseTriviaQuiz&theme=nightowl)](https://github.com/hannahnmcdonald/TheExpanseTriviaQuiz)
+<!-- [![Book Club Collective](https://github-readme-stats.vercel.app/api/pin/?username=hannahnmcdonald&repo=Book-Club-Collective&theme=nightowl)](https://github.com/hannahnmcdonald/Book-Club-Collective) 
+[![TheExpanseTriviaQuiz](https://github-readme-stats.vercel.app/api/pin/?username=hannahnmcdonald&repo=TheExpanseTriviaQuiz&theme=nightowl)](https://github.com/hannahnmcdonald/TheExpanseTriviaQuiz) -->
 
 
 
