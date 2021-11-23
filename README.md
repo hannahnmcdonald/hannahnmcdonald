@@ -1,10 +1,8 @@
-## 👋 Hi, I’m Hannah
+## 👋 Hi, I’m Hannah.
 
-🌱 I’m currently learning the fundamentals of full stack web development Georgia Tech's Full Stack Bootcamp
+🌱 I’m currently learning the fundamentals of web development at Georgia Tech's Full Stack Bootcamp
 
 📫 You can reach me via email at hannahcodes@protonmail.com
-
-
 
 Welcome to my page! ✨
 
@@ -17,6 +15,8 @@ Welcome to my page! ✨
   
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=hannahnmcdonald&layout=compact&theme=nightowl)
   
+
+
 </p>
 
 <!-- [![Book Club Collective](https://github-readme-stats.vercel.app/api/pin/?username=hannahnmcdonald&repo=Book-Club-Collective&theme=gotham)](https://github.com/hannahnmcdonald/Book-Club-Collective)
