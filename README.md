@@ -18,12 +18,10 @@ Welcome to my page! ✨
 
 
 <p align="center">
-
-![Overall Stats](https://github-readme-stats.vercel.app/api?username=hannahnmcdonald&count_private=false&show_icons=true&theme=nightowl)
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hannahnmcdonald&layout=compact&theme=nightowl)
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=hannahnmcdonald&layout=compact&theme=nightowl)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hannahnmcdonald&layout=compact&theme=nightowl)![Streak](https://github-readme-streak-stats.herokuapp.com/?user=hannahnmcdonald&layout=compact&theme=nightowl)
+  
+![Overall Stats](https://github-readme-stats.vercel.app/api?username=hannahnmcdonald&count_private=false&show_icons=true&theme=nightowl)
   
 </p>
 
