@@ -14,16 +14,20 @@ Welcome to my page! ✨
 
 👇🏼 Some of my favorite projects: 
 
-[![Check Mate](https://github-readme-stats.vercel.app/api/pin/?username=hannahnmcdonald&repo=check-mate&theme=nightowl)](https://github.com/hannahnmcdonald/check-mate)[![Book Club Collective](https://github-readme-stats.vercel.app/api/pin/?username=hannahnmcdonald&repo=Book-Club-Collective&theme=nightowl)](https://github.com/hannahnmcdonald/Book-Club-Collective) 
+[![Check Mate](https://github-readme-stats.vercel.app/api/pin/?username=hannahnmcdonald&repo=check-mate&theme=tokyonight)](https://github.com/hannahnmcdonald/check-mate)[![Book Club Collective](https://github-readme-stats.vercel.app/api/pin/?username=hannahnmcdonald&repo=Book-Club-Collective&theme=tokyonight)](https://github.com/hannahnmcdonald/Book-Club-Collective) 
 
 
 <p align="center">
   
-![Overall Stats](https://github-readme-stats.vercel.app/api?username=hannahnmcdonald&count_private=false&show_icons=true&theme=nightowl) 
+![Overall Stats](https://github-readme-stats.vercel.app/api?username=hannahnmcdonald&count_private=false&show_icons=true&theme=tokyonight) 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hannahnmcdonald&layout=compact&theme=nightowl)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hannahnmcdonald&layout=compact&theme=tokyonight)
   
 </p>
+
+
+
+
 
 
 
