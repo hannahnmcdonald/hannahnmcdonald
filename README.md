@@ -2,9 +2,20 @@
 
 Welcome to my page! ✨
 
-🌱 I’m currently learning the fundamentals of web development at Georgia Tech's Full Stack Coding Bootcamp
+🎓I am a graduate of Georgia Tech's Full Stack Coding Bootcamp.
 
-📫 You can reach me via email at hannahcodes@protonmail.com
+👩🏼‍💻 I am a full stack web developer with a passion for UX/UI.
+
+🕵🏼‍♀️ I am looking for a Junior Web Developer Position in the Atlanta area.
+
+🙋🏼 I am open to collaboration on projects.
+
+📫 You can reach me via email at hannahcodes@protonmail.com.
+
+👇🏼 Some of my favorite projects: 
+
+[![Check Mate](https://github-readme-stats.vercel.app/api/pin/?username=hannahnmcdonald&repo=check-mate&theme=nightowl)](https://github.com/hannahnmcdonald/check-mate)[![Book Club Collective](https://github-readme-stats.vercel.app/api/pin/?username=hannahnmcdonald&repo=Book-Club-Collective&theme=nightowl)](https://github.com/hannahnmcdonald/Book-Club-Collective) 
+
 
 <p align="center">
 
@@ -15,9 +26,6 @@ Welcome to my page! ✨
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=hannahnmcdonald&layout=compact&theme=nightowl)
   
 </p>
-
-<!-- [![Book Club Collective](https://github-readme-stats.vercel.app/api/pin/?username=hannahnmcdonald&repo=Book-Club-Collective&theme=nightowl)](https://github.com/hannahnmcdonald/Book-Club-Collective) 
-[![TheExpanseTriviaQuiz](https://github-readme-stats.vercel.app/api/pin/?username=hannahnmcdonald&repo=TheExpanseTriviaQuiz&theme=nightowl)](https://github.com/hannahnmcdonald/TheExpanseTriviaQuiz) -->
 
 
 
