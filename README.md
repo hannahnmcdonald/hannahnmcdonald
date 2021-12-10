@@ -12,7 +12,7 @@ Welcome to my page! ✨
 
 📫 You can reach me via email at hannahcodes@protonmail.com.
 
-👇🏼 Some of my favorite projects: 
+👇🏼 Here are some of my favorite projects
 
 [![Check Mate](https://github-readme-stats.vercel.app/api/pin/?username=hannahnmcdonald&repo=check-mate&theme=tokyonight)](https://github.com/hannahnmcdonald/check-mate)[![Book Club Collective](https://github-readme-stats.vercel.app/api/pin/?username=hannahnmcdonald&repo=Book-Club-Collective&theme=tokyonight)](https://github.com/hannahnmcdonald/Book-Club-Collective) 
 
