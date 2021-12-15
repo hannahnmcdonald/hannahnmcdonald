@@ -6,7 +6,7 @@ Welcome to my page! ✨
 
 👩🏼‍💻 I am a full stack web developer with a passion for UX/UI.
 
-🕵🏼‍♀️ I am looking for a Junior Web Developer Position in the Atlanta area.
+🕵🏼‍♀️ I am looking for a Web Developer Position in the Atlanta area.
 
 🙋🏼 I am open to collaboration on projects.
 
