@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Hannah.
 
-#Welcome to my page! ✨
+# Welcome to my page! ✨
 
 🎓I am a graduate of Georgia Tech's Full Stack Coding Bootcamp.
 
