@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Hannah.
 
-Welcome to my page! ✨
+#Welcome to my page! ✨
 
 🎓I am a graduate of Georgia Tech's Full Stack Coding Bootcamp.
 
@@ -16,14 +16,11 @@ Welcome to my page! ✨
 
 [![Check Mate](https://github-readme-stats.vercel.app/api/pin/?username=hannahnmcdonald&repo=check-mate&theme=tokyonight)](https://github.com/hannahnmcdonald/check-mate)[![Book Club Collective](https://github-readme-stats.vercel.app/api/pin/?username=hannahnmcdonald&repo=Book-Club-Collective&theme=tokyonight)](https://github.com/hannahnmcdonald/Book-Club-Collective) 
 
-
-<p align="center">
   
 ![Overall Stats](https://github-readme-stats.vercel.app/api?username=hannahnmcdonald&count_private=false&show_icons=true&theme=tokyonight) 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hannahnmcdonald&layout=compact&theme=tokyonight)
   
-</p>
 
 
 
