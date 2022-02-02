@@ -4,7 +4,7 @@
 
 🎓I am a graduate of Georgia Tech's Full Stack Coding Bootcamp.
 
-👩🏼‍💻 I am a full stack web developer with a passion for UX/UI.
+👩🏼‍💻 I am a full stack web developer with a passion for front end development & UX/UI.
 
 🕵🏼‍♀️ I am looking for a Web Developer Position in the Atlanta area.
 
