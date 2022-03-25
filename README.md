@@ -4,9 +4,9 @@
 
 🎓I am a graduate of Georgia Tech's Full Stack Coding Bootcamp.
 
-👩🏼‍💻 I am a full stack web developer with a passion for front end development & UX/UI.
+👩🏼‍💻 I am a front-end web developer working with Vue.js
 
-👩🏼‍🏫 I am currently learning C#, .NET, and Vue.js. 
+👩🏼‍🏫 I am currently learning C# and .NET
 
 🙋🏼 I am open to collaboration on projects.
 
