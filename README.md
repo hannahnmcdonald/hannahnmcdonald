@@ -6,7 +6,7 @@
 
 👩🏼‍💻 I am a full stack web developer with a passion for front end development & UX/UI.
 
-🕵🏼‍♀️ I am looking for a Web Developer Position in the Atlanta area.
+👩🏼‍🏫 I am currently learning C#, .NET, and Vue.js. 
 
 🙋🏼 I am open to collaboration on projects.
 
