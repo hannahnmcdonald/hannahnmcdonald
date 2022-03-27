@@ -4,7 +4,7 @@
 
 🎓I am a graduate of Georgia Tech's Full Stack Coding Bootcamp.
 
-👩🏼‍💻 I am a front-end web developer working with Vue.js
+👩🏼‍💻 I am a front-end web developer
 
 👩🏼‍🏫 I am currently learning C# and .NET
 
@@ -20,7 +20,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hannahnmcdonald&layout=compact&theme=gotham)
   
-
 
 
 
