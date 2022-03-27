@@ -16,8 +16,6 @@
 
 [![Check Mate](https://github-readme-stats.vercel.app/api/pin/?username=hannahnmcdonald&repo=check-mate&theme=gotham)](https://github.com/hannahnmcdonald/check-mate)[![Book Club Collective](https://github-readme-stats.vercel.app/api/pin/?username=hannahnmcdonald&repo=Book-Club-Collective&theme=gotham)](https://github.com/hannahnmcdonald/Book-Club-Collective) 
 
-![Overall Stats](https://github-readme-stats.vercel.app/api?username=hannahnmcdonald&count_private=false&show_icons=true&theme=gotham) 
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hannahnmcdonald&layout=compact&theme=gotham)
   
 
