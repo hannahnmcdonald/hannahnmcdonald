@@ -1,4 +1,6 @@
-#  Hi, I’m Hannah.
+#  Hi, I’m Hannah. 👋
+
+## Welcome to my page! 
 
 ```
 import Person from '/developers'
