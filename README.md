@@ -22,7 +22,7 @@ const Hannah = () = {
 export default Hannah;
 ```
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hannahnmcdonald&layout=compact&theme=vue-dark&langs_count=7)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hannahnmcdonald&layout=compact&theme=gotham&langs_count=7)
   
 
 
